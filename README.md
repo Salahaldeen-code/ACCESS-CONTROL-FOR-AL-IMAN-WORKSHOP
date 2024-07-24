@@ -25,8 +25,5 @@ This system is ideal for business owners, security professionals, and tech enthu
 
 
 **images**
-![image](https://github.com/Salahaldeen-code/MYFYP/assets/143083144/fd4d2045-feee-4cf7-88ac-1e4e3d3c4ef9)
-![image](https://github.com/Salahaldeen-code/MYFYP/assets/143083144/7606409a-d627-4ddd-8bbd-f0915486dce4)
-![image](https://github.com/Salahaldeen-code/MYFYP/assets/143083144/278b567c-09cd-490d-be48-e84b47043b16)
-![image](https://github.com/Salahaldeen-code/MYFYP/assets/143083144/b46cf047-d733-44b3-9ac3-d1a503ce4ea1)
+
 
